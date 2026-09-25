@@ -40,3 +40,22 @@ I'm interested in building projects that combine electronics, embedded systems, 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+## 🚀 Featured Projects
+
+### 🚗 AI-Powered Driver Behavior Monitoring System
+AI-based automotive project developed during my internship at KPIT.
+
+**Focus:** Driver behavior classification, CAN data, Machine Learning and MQTT communication.
+
+**Technologies:** Python • Machine Learning • Random Forest • CAN • MQTT • Docker
+
+---
+
+### 🌐 Java Web Application
+Mini web application developed as part of my Java/JEE coursework.
+
+**Focus:** Web development and backend programming.
+
+**Technologies:** Java • HTML • CSS
