@@ -45,12 +45,14 @@ I'm interested in building projects that combine electronics, embedded systems, 
 ## 🚀 Featured Projects
 
 ### 🚗 AI-Powered Driver Behavior Monitoring System
-AI-based automotive project developed during my internship at KPIT.
 
-**Focus:** Driver behavior classification, CAN data, Machine Learning and MQTT communication.
+AI-based automotive project developed during a summer internship, focused on monitoring and classifying driver behavior using vehicle data and Machine Learning techniques.
 
-**Technologies:** Python • Machine Learning • Random Forest • CAN • MQTT • Docker
+**Focus:** Driver behavior classification • CAN data • Machine Learning • MQTT communication
 
+**Technologies:** Python • Machine Learning • Random Forest • CAN • MQTT • Docker • VSS • KUKSA.val • ONNX
+
+🔗 [View Project](https://github.com/rahmasmaoui/AI-Driver-Behavior-Monitoring)
 ---
 
 ### 🌐 Java Web Application
