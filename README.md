@@ -55,9 +55,3 @@ AI-based automotive project developed during a summer internship, focused on mon
 🔗 [View Project](https://github.com/rahmasmaoui/AI-Driver-Behavior-Monitoring)
 ---
 
-### 🌐 Java Web Application
-Mini web application developed as part of my Java/JEE coursework.
-
-**Focus:** Web development and backend programming.
-
-**Technologies:** Java • HTML • CSS
