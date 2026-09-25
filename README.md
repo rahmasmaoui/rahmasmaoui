@@ -1,17 +1,15 @@
 # Hi 👋, I'm Rahma Smaoui
 
-🎓 TIC / IoT Student at ENET'Com  
+🎓 3rd Year ICT / IoT Student at ENET'Com  
 💡 Interested in Embedded Systems, IoT, Electronics & Artificial Intelligence
 
 ## 👩🏻‍💻 About Me
 
-I'm an Information and Communication Technologies student specializing in IoT.
+I'm a third-year Information and Communication Technologies student specializing in IoT.
 
 I'm interested in building projects that combine electronics, embedded systems, IoT and AI.
 
-🚗 I completed an internship at KPIT, working on an AI-powered Driver Behavior Monitoring System, with a focus on machine learning, CAN data, MQTT communication, and automotive software technologies.
-
-
+🚗 I completed a summer internship in the automotive industry, working on an AI-powered Driver Behavior Monitoring System, with a focus on Machine Learning, CAN data, MQTT communication, and automotive software technologies.
 
 ## 🛠️ Tech Stack
 
@@ -41,7 +39,6 @@ I'm interested in building projects that combine electronics, embedded systems, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
 ## 🚀 Featured Projects
 
 ### 🚗 AI-Powered Driver Behavior Monitoring System
@@ -53,5 +50,3 @@ AI-based automotive project developed during a summer internship, focused on mon
 **Technologies:** Python • Machine Learning • Random Forest • CAN • MQTT • Docker • VSS • KUKSA.val • ONNX
 
 🔗 [View Project](https://github.com/rahmasmaoui/AI-Driver-Behavior-Monitoring)
----
-
